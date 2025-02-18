@@ -1,0 +1,5 @@
+torch
+numpy
+flask
+gunicorn
+python-dotenv
